@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751300626759",
+    "project_id": "eigital-4272f",
+    "storage_bucket": "eigital-4272f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751300626759:android:fe4d6deba4fd0da1a4e462",
+        "android_client_info": {
+          "package_name": "com.erwinjudejimonzala.eigital_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751300626759-h2c3stjg78n7b71uc8qkn0hjjkhqs8c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvY16Cl2WCTaCZjADscMPI-J8TIWQzonI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751300626759-h2c3stjg78n7b71uc8qkn0hjjkhqs8c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
